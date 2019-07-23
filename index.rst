@@ -10,6 +10,6 @@ BMR stands for `Blood Moon Rising` and we are an alliance in the `Guns of Glory`
 The help files here are meant to help members contribute to the allaince and progress their own castle within our
 alliance.
 
-Remember an Alliance only succeed it it's members succeed.
+Remember an Alliance only succeeds it it's members succeed.
 
 
