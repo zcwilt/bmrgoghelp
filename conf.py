@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'BMR Allaince Documentation'
+project = u'BMR Alliance Documentation'
 copyright = u'2019, BMR Alliance'
 author = u'Zen Cart Team'
 
