@@ -19,8 +19,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'Zen Cart Developer Documentation'
-copyright = u'2019, Zen Cart Team'
+project = u'BMR Allaince Documentation'
+copyright = u'2019, BMR Alliance'
 author = u'Zen Cart Team'
 
 # The short X.Y version
