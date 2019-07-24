@@ -12,6 +12,17 @@ alliance.
 
 Remember an Alliance only succeeds it it's members succeed.
 
+ - :doc:`dailyroutine`
+
+ - :doc:`keepingresourcessafe`
+
+
+.. toctree::
+    :maxdepth: 7
+    :hidden:
+
+    dailyroutine
+    keepingresourcessafe
 
 
 
