@@ -3,9 +3,9 @@ Castle Buildings
 ###########################
 
 
- - Castle
- - Academy
- - Trap Factory
+ - :doc:`buildings/castle`
+ - :doc:`buildings/academy`
+ - :doc:`buildings/trapfactory`
  - Warehouse
  - Munitions Exchange
  - Forge
@@ -35,3 +35,11 @@ Castle Buildings
  - Military Tents
  - Event Centre
  - Musketeer Fort
+
+.. toctree::
+    :maxdepth: 7
+    :hidden:
+
+    buildings/castle
+    buildings/academy
+    buildings/trapfactory
