@@ -1,5 +1,5 @@
 ###########################
-Castle Buildings
+Estate Buildings
 ###########################
 
 
@@ -43,3 +43,6 @@ Castle Buildings
     buildings/castle
     buildings/academy
     buildings/trapfactory
+    buildings/warehouse
+    buildings/wall
+    buildings/lumberyard

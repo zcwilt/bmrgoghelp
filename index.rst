@@ -16,7 +16,7 @@ Remember an Alliance only succeeds it it's members succeed.
 
  - :doc:`keepingresourcessafe`
 
- - :doc:`castlebuildings`
+ - :doc:`estatebuildings`
 
  - :doc:`alliancebuildings`
 
@@ -26,7 +26,7 @@ Remember an Alliance only succeeds it it's members succeed.
 
     dailyroutine
     keepingresourcessafe
-    castlebuildings
+    estatebuildings
     alliancebuildings
 
 
